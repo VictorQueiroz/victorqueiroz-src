@@ -13,6 +13,7 @@ date: 2014-09-18 00:33:04
 
 > Antes de mais nada é importante que você leia o artigo [Jasmine: Primeiro contato com testes unitários](http://victorqueiroz.co/jasmine-primeiro-contato-com-testes-unitarios/), caso ainda não saiba o que é Jasmine.
 
+<!--more-->
 ## Dependências
 
 *   [angular-mocks](https://docs.angularjs.org/api/ngMock)

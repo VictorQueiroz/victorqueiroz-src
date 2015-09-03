@@ -18,6 +18,7 @@ date: 2014-09-25 08:03:09
 
 Se você ainda não teve a experiência de usar o ngMock com Jasmine, não sabe o que está perdendo, é tudo muito maravilhoso e poderoso. Continue lendo, vamos lá!
 
+<!--more-->
 Como falei no final do artigo [AngularJS: Criando testes com Jasmine e Karma](http://victorqueiroz.co/angularjs-criando-testes-com-jasmine-e-karma/), você pode usar o $injector do AngularJS para chamar em qualquer lugar tudo aquilo que precisamos para trabalhar com nossos módulos, neste guia nós utilizaremos as seguintes dependências:
 
 *   $injector

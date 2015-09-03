@@ -14,6 +14,7 @@ date: 2014-09-16 03:07:52
 
 ### [![AngularJS-large](http://victorqueiroz.co/wp-content/uploads/2014/09/AngularJS-large.png)](http://victorqueiroz.co/wp-content/uploads/2014/09/AngularJS-large.png)O que são as diretivas?
 
+<!--more-->
 Diretivas ou directives (em inglês), são marcadores em um [DOM](http://en.wikipedia.org/wiki/Document_Object_Model) element (podendo ser um atributo, nome de elemento, comentário ou classe das [CSS](http://en.wikipedia.org/wiki/Cascading_Style_Sheets))
 
 que fala para o Angular [**HTML compiler**](https://docs.angularjs.org/guide/compiler) ([$compile](https://docs.angularjs.org/api/ng/service/$compile)) anexar um designado conteúdo, ou até mesmo transformar/gerenciar o DOM e suas "childrens".
