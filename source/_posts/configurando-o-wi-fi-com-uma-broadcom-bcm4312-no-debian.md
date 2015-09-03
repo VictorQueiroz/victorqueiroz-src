@@ -21,6 +21,7 @@ date: 2014-09-28 07:07:40
 
 O módulo que utilizaremos para fazer nossa placa Wi-Fi funcionar, será o **wl**, além da BCM 4312, o módulo suporta os seguintes dispositivos: BCM4311, BCM4313, BCM4321, BCM4322, BCM43224, BCM43225, BCM43227, BCM43228.
 
+<!--more-->
 ### Instalando e configurando o módulo
 
 Primeiro você deve se autenticar como sudo:

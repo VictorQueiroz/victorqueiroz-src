@@ -11,6 +11,7 @@ date: 2014-09-16 08:12:32
 
 Hail, brothers! Hoje vim apresentar o gulp.js, o automatizador de tarefas que funciona exatamente como o seu nome sugere, um GOLE. É rápido, eficiente, simples de usar e configurar e hoje vocês verão por que <del>ele é muito melhor que o Grunt</del>.
 
+<!--more-->
 ## My name is gulp
 
 ### Instalando o gulp.js

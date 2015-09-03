@@ -13,6 +13,7 @@ date: 2014-09-17 21:57:48
 
 Já se foram os tempos em que nós desenvolvedores testávamos as nossas aplicações na mão, íamos até um navegador, abrir de página por página e saíamos dando <span class="lang:js decode:true  crayon-inline">console.log</span> em tudo para sabermos se aquilo estava realmente retornando o que esperávamos. E para os que ainda não conhecem, eu trouxe até vocês a apresentação de um ótimo testador unitário que vai mudar o seu jeito de desenvolver as suas aplicações. Hahahahaha! Vamos lá! :D
 
+<!--more-->
 ## Introdução
 
 ### O que é Jasmine?

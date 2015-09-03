@@ -22,6 +22,7 @@ Assim como eu, provavelmente você já tenha feito a si essa pergunta:
 
 Tendo em mente que você deve executar todos esses passos de dentro da pasta do seu projeto. Segue com a gente o passo a passo e veja como é simples!
 
+<!--more-->
 ### Criando o package.json (opcional)
 
 É apenas simples e fácil assim como o próximo passo. Vá até a linha de comando e digite:

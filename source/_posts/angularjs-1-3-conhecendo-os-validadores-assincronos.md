@@ -13,7 +13,7 @@ date: 2014-11-02 22:57:13
 ### O que são os $asyncValidators?
 
 Os $asyncValidators, como o nome já diz, são validadores [assíncronos](http://pt.wikipedia.org/wiki/Comunica%C3%A7%C3%A3o_ass%C3%ADncrona), ou seja, eles não são executados pelo Angular de forma independente. Eles representam um dos componentes do [NgModelController](https://docs.angularjs.org/api/ng/type/ngModel.NgModelController) que é o controlador da diretiva mais usada no mundo do AngularJS, o [ngModel](https://docs.angularjs.org/api/ng/directive/ngModel).
-
+<!--more-->
 ### Onde eu deveria utilizar um validador assíncrono?
 
 Você deve utilizar validadores assíncronos junto ao ngModel (obviamente), em um campo de texto em que deverá ser digitado um nome de usuário, um endereço de correio eletrônico etc.
