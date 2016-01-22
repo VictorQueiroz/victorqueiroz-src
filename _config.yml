@@ -81,3 +81,6 @@ deploy:
   type: git
   repo: git@github.com:VictorQueiroz/victorqueiroz.github.io.git
   branch: master
+
+
+disqus_shortname: victorqueirozg
